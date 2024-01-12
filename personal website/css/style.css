@@ -1,0 +1,23 @@
+.name{
+    text-align: center;
+    color: rgb(0, 139, 139);
+    margin-bottom: 5px;
+}
+.gmail{
+    text-align: center;
+   
+}
+.linkedin{
+    margin-left: 80%;
+}
+.git{
+    margin-left: 10%;
+}
+.color{
+    color: rgb(0, 139, 139);
+}
+.img{
+    height: 25px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
